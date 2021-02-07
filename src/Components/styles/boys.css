@@ -1,0 +1,27 @@
+.sht{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-heading{
+  font-size: 90%;
+}
+p{
+  font-size: 90%;
+  text-align: justify;
+}
+.sht{
+  margin-top: 0px;
+}
+.fht{
+  display: flex;
+  align-items: center;
+}
+@media only screen and (max-width: 756px) {
+  .rootrow {
+      margin-top: 20px;
+  }
+  .cols{
+    padding: 20px;
+  }
+}

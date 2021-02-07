@@ -1,0 +1,12 @@
+.title{
+    color: #ffffff;
+    font-size: 150%;
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 756px) {
+    .title{
+        font-weight: 400;
+        font-size: 100%;
+    }
+  }

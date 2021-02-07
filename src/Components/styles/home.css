@@ -1,0 +1,30 @@
+.Home{
+    padding: 2%;
+   
+}
+.message{
+    box-shadow: 5px 5px 10px 0px grey;
+    padding: 5%;
+    border-radius: 5px;
+}
+.home-component .message h1{
+    color: #1461a0;  
+}
+.moto{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color :#1461a0;
+}
+p{
+    color : rgb(198, 198, 224);
+}
+
+@media only screen and (max-width: 822px) {
+    .moto{
+       font-size: 20px;
+     }
+     p{
+         font-size: 13px;
+     }
+   }
