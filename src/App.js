@@ -1,5 +1,5 @@
 import './App.css';
-import Footer from './Components/Footer';
+// import Footer from './Components/Footer';
 import Heading from './Components/Heading';
 import Routing from './Components/Routing';
 // import Search from './Components/Search';

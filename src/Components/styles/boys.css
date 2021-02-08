@@ -5,6 +5,7 @@
 }
 .section-heading{
   font-size: 90%;
+  font-weight: 900;
 }
 p{
   font-size: 90%;
@@ -17,11 +18,39 @@ p{
   display: flex;
   align-items: center;
 }
+.rootrow{
+  background-color: rgb(45, 49, 105);
+}
+.img{
+  border-radius: 10px;
+}
+.pinfo{
+  color: rgb(65, 65, 38);
+}
+.API-info{
+    color: rgb(92, 103, 114);
+    /* text-shadow: 0px 2px 3px rgba(255,255,255,0.5) */
+    font-size: 150%;
+}  
+
+
+
+
+
+
 @media only screen and (max-width: 756px) {
   .rootrow {
-      margin-top: 20px;
+      padding-top: 20px;
   }
   .cols{
     padding: 20px;
   }
+  .sht{
+    margin-top: 20px;
+  }
+  .API-info{
+    color: rgb(163, 171, 179);
+    /* text-shadow: 0px 2px 3px rgba(255,255,255,0.5) */
+    font-size: 100%;
+}  
 }

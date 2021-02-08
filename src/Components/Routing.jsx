@@ -5,7 +5,7 @@ import Boys from './Boys'
 import Home from './Home'
 import Girls from './Girls'
 import Childrens from './Childrens'
-import Boys_formal from './Boys/Boys_formal'
+// import Boys_formal from './Boys/Boys_formal'
 
 
 function Routing() {
